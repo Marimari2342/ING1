@@ -12,13 +12,17 @@
 * Teoría🪴
 
 LUNES 11:00 hs. a 13:00 hs.
+
 MIÉRCOLES 16:00 hs. a 18:00 hs.
+
 JUEVES 17:00 hs. a 19: 00hs.
   
 * Práctica🥑
 
 MARTES 12:00 hs. a 15:00hs.
+
 MIÉRCOLES 8:00 a 11:00hs.
+
 VIERNES 14:30 a 17:30hs.
 
 >[!NOTE]

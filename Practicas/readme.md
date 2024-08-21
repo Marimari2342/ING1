@@ -23,10 +23,9 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 * **2) Definir requerimientos funcionales y no funcionales.**
 
-<details><summary> <code> Respuesta 🖱 </code></summary><br>
-
-<p style="text-align: center;">--------------</p>
-
+<details>
+  <summary><code>Respuesta 🖱</code></summary>
+  <p style="text-align: center;">--------------</p>
 </details>
 
 * **3) Definir que es un stakeholder.**

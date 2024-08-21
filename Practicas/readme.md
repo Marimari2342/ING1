@@ -35,9 +35,7 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 <details><summary> <code> Respuesta 🖱 </code></summary><br>
 
-<p style="text-align: justify;">
-
-</p>
+El término stakeholder se utiliza para referirse a cualquier persona o grupo que se verá afectado por el sistema, directa o indirectamente. Entre los stakeholders se encuentran: los usuarios finales, los ingenieros, gerentes y expertos del dominio.
 
 </details>
 
@@ -45,9 +43,7 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 <details><summary> <code> Respuesta 🖱 </code></summary><br>
 
-<p style="text-align: justify;">
 
-</p>
 
 </details>
 
@@ -55,9 +51,11 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 <details><summary> <code> Respuesta 🖱 </code></summary><br>
 
-<p style="text-align: justify;">
+Existen tres tipos genéricos de puntos de vista:
 
-</p>
+* **Punto de vista de los interactuadores:** representan a las personas u otros sistemas que interactúan directamente con el sistema. Pueden influir en los requerimientos del sistema de algún modo.
+* **Punto de vista indirecto:** representan a los stakeholders que no utilizan el sistema ellos mismos pero que influyen en los requerimientos de algún modo.
+* **Punto de vista del dominio:** representan las características y restricciones del dominio que influyen en los requerimientos del sistema.
 
 </details>
 

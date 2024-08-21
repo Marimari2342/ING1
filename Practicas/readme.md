@@ -25,7 +25,9 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 <details>
   <summary><code>Respuesta 🖱</code></summary>
-  <p style="text-align: center;">--------------</p>
+  <div style="text-align: center;">
+  <p>--------------</p>
+  </div>
 </details>
 
 * **3) Definir que es un stakeholder.**

@@ -94,7 +94,7 @@ La elicitación de requisitos es una actividad principalmente de carácter socia
 
 * ***1) En un sistema de registro de asistencia a través de técnicas biométricas (huella digital) de estudiantes universitarios para la cátedra de Ingeniería I. Este sistema se alimentará de un listado otorgado por la oficina de alumnos de la facultad. Además, necesita la autorización del Jefe de Trabajos Prácticos del turno correspondiente para luego los alumnos poder registrar el presente. También, el profesor a cargo de la materia podrá consultar y listar el estado de cada alumno perteneciente a su cátedra. El sistema sólo se utilizará en el ámbito de la facultad de Informática y deberá adecuarse a la reglamentación sobre privacidad de los datos en el ámbito de la misma.***
 
-<details><summary><code>Respuesta 🖱</code></summary>
+<details><summary><code>Respuesta 🖱</code></summary><br>
 
 **Stakeholders**
 

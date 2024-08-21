@@ -65,8 +65,16 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 <details><summary> <code> Respuesta 🖱 </code></summary><br>
 
-<p style="text-align: justify;">
+La elicitación de requisitos es una actividad principalmente de carácter social, mucho más que tecnológico. Por lo tanto, los problemas que se plantean son de naturaleza psicológica y social, más que técnicos. Dentro de estos problemas se encuentran los problemas de comunicación, que son:
 
-</p>
+* Dificultad para expresar claramente las necesidades.
+* No ser conscientes de sus propias necesidades.
+* No entender cómo la tecnología puede ayudar.
+* Miedo a parecer incompetentes por ignorancia tecnológica.
+* No tomar decisiones por no poder prever las  consecuencias, no entender las alternativas o no tener una visión global.
+* Cultura y vocabulario diferentes.
+* Intereses distintos en el sistema a desarrollar.
+* Medios de comunicación inadecuados (diagramas que no entienden los clientes y usuarios).
+* Conflictos personales o políticos.
 
 </details>

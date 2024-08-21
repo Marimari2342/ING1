@@ -9,13 +9,15 @@
 
 <details><summary> <code> Respuesta 🖱 </code></summary><br>
 
-~~~
 Al hablar de las necesidades del cliente en términos más técnicos, hablamos de requerimientos. Un Requerimiento es una característica del sistema o una descripción de algo que el sistema es capaz de hacer con el objeto de satisfacer el propósito del sistema.
+
 La IEEE-Std-610 define a los requerimientos como:
+
 a) Condición o capacidad que necesita el usuario para resolver un problema o alcanzar un objetivo.
-b) Condición o capacidad que debe satisfacer o poseer un sistema o una componente de un sistema para satisfacer un contrato, un estándar, una especificación u otro documento formalmente impuesto.</p>
-c) Representación documentada de los requerimientos, de una condición o capacidad.</p>
-~~~
+
+b) Condición o capacidad que debe satisfacer o poseer un sistema o una componente de un sistema para satisfacer un contrato, un estándar, una especificación u otro documento formalmente impuesto.
+
+c) Representación documentada de los requerimientos, de una condición o capacidad.
 
 </details>
 

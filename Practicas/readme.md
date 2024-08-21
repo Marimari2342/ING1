@@ -25,9 +25,7 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 <details><summary> <code> Respuesta 🖱 </code></summary><br>
 
-<p style="text-align: justify;">
-
-</p>
+<p style="text-align: center;">--------------</p>
 
 </details>
 

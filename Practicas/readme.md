@@ -252,3 +252,9 @@ En este tipo de entrevistas el encuestador lleva un tema en general, y no hay un
 <details><summary><code>Respuesta 🖱</code></summary><br>
   
 </details>
+
+<br>
+<br>
+<br>
+
+<p><img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/firmagith.png" alt="marigit"/></p>

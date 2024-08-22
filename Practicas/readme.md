@@ -98,30 +98,30 @@ La elicitación de requisitos es una actividad principalmente de carácter socia
 
 **Stakeholders**
 
-(a) Oficina de alumnos de la facultad: proporciona el listado de estudiantes que serán registrados en el sistema.
-(b) Jefe de Trabajos Prácticos: es el que autoriza el uso del sistema para que cada alumno pueda dar el presente en su turno.
-(c) Profesor de la materia: puede consultar y listar el listado de cada uno de sus alumnos en el sistema.
-(d) Estudiantes Universitarios: registran su asistencia en el sistema.
-(e) Autoridades de la Facultad de Informática: son los que se aseguran que el sistema cumpla con la reglamentación sobre privacidad.
-(f) Especialistas en seguridad de datos: asesoran sobre la adecuación del sistema con la reglamentación de privacidad de datos.
+<p>(a) Oficina de alumnos de la facultad: proporciona el listado de estudiantes que serán registrados en el sistema.</p>
+<p>(b) Jefe de Trabajos Prácticos: es el que autoriza el uso del sistema para que cada alumno pueda dar el presente en su turno.</p>
+<p>(c) Profesor de la materia: puede consultar y listar el listado de cada uno de sus alumnos en el sistema.</p>
+<p>(d) Estudiantes Universitarios: registran su asistencia en el sistema.</p>
+<p>(e) Autoridades de la Facultad de Informática: son los que se aseguran que el sistema cumpla con la reglamentación sobre privacidad.</p>
+<p>(f) Especialistas en seguridad de datos: asesoran sobre la adecuación del sistema con la reglamentación de privacidad de datos.</p>
 
 **Puntos de vista**
 
-(a) Oficina de Alumnos de la Facultad: necesitan asegurarse de que el sistema pueda integrarse con el listado de estudiantes y que los datos sean precisos y actualizados.
-(b) Jefe de Trabajos Prácticos: Requiere que el sistema sea accesible y funcional para la autorización de la asistencia. Debe ser capaz de manejar el registro de asistencia de manera eficiente y acorde con los horarios de los turnos.
-(c) Profesor de la Materia: necesita acceso a informes y listados claros sobre la asistencia de los estudiantes para la gestión de su cátedra y la toma de decisiones relacionadas con el rendimiento académico.
-(d) Estudiantes Universitarios: quieren un sistema que sea fácil de usar y que garantice que su asistencia se registre correctamente.
-(e) Autoridades de la Facultad de Informática: se preocupan por el cumplimiento de las leyes y regulaciones, y la protección de la privacidad y seguridad de los datos personales de los estudiantes.
-(f) Especialistas en seguridad de Datos: deben asegurar que el sistema cumpla con las regulaciones sobre la protección de datos personales y privacidad, y que no haya brechas en la seguridad de los datos.
+<p>(a) Oficina de Alumnos de la Facultad: necesitan asegurarse de que el sistema pueda integrarse con el listado de estudiantes y que los datos sean precisos y actualizados.</p>
+<p>(b) Jefe de Trabajos Prácticos: Requiere que el sistema sea accesible y funcional para la autorización de la asistencia. Debe ser capaz de manejar el registro de asistencia de manera eficiente y acorde con los horarios de los turnos.</p>
+<p>(c) Profesor de la Materia: necesita acceso a informes y listados claros sobre la asistencia de los estudiantes para la gestión de su cátedra y la toma de decisiones relacionadas con el rendimiento académico.</p>
+<p>(d) Estudiantes Universitarios: quieren un sistema que sea fácil de usar y que garantice que su asistencia se registre correctamente.</p>
+<p>(e) Autoridades de la Facultad de Informática: se preocupan por el cumplimiento de las leyes y regulaciones, y la protección de la privacidad y seguridad de los datos personales de los estudiantes.</p>
+<p>(f) Especialistas en seguridad de Datos: deben asegurar que el sistema cumpla con las regulaciones sobre la protección de datos personales y privacidad, y que no haya brechas en la seguridad de los datos.</p>
 
 **Fuentes de Información**
 
-(a) Oficina de Alumnos de la Facultad: Listado de estudiantes, datos y registros de los mismos.
-(b) Jefe de Trabajos Prácticos: procedimientos para la autorización de la asistencia y requisitos específicos del turno.
-(c) Profesor de la Materia: requisitos de la cátedra, informes de asistencia y necesidades de gestión de la clase.
-(d) Estudiantes Universitarios: información sobre el uso del sistema.
-(e) Autoridades de la Facultad de Informática: políticas y reglamentaciones sobre privacidad y protección de datos, y requisitos legales aplicables. 
-(f) Especialistas en seguridad de Datos: normativas de privacidad de datos, buenas prácticas en seguridad de datos.
+<p>(a) Oficina de Alumnos de la Facultad: Listado de estudiantes, datos y registros de los mismos.</p>
+<p>(b) Jefe de Trabajos Prácticos: procedimientos para la autorización de la asistencia y requisitos específicos del turno.</p>
+<p>(c) Profesor de la Materia: requisitos de la cátedra, informes de asistencia y necesidades de gestión de la clase.</p>
+<p>(d) Estudiantes Universitarios: información sobre el uso del sistema.</p>
+<p>(e) Autoridades de la Facultad de Informática: políticas y reglamentaciones sobre privacidad y protección de datos, y requisitos legales aplicables.</p>
+<p>(f) Especialistas en seguridad de Datos: normativas de privacidad de datos, buenas prácticas en seguridad de datos.</p>
 
 </details>
 

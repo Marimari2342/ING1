@@ -23,7 +23,7 @@ c) Representación documentada de los requerimientos, de una condición o capaci
 
 * ***2) Definir requerimientos funcionales y no funcionales.***
 
-<details><summary><code>Respuesta 🖱</code></summary>
+<details><summary><code>Respuesta 🖱</code></summary><br>
   
 </details>
 
@@ -133,3 +133,45 @@ La elicitación de requisitos es una actividad principalmente de carácter socia
 <p>Por ejemplo: los estudiantes necesitan un sistema que sea fácil de usar y que registre su asistencia de manera precisa; mientras que las autoridades de la Facultad deben cumplir con las regulaciones de privacidad y protección de datos, lo que puede requerir medidas adicionales de seguridad y restricciones en el acceso a los datos. Esto podría generar un posible conflicto debido a que los requisitos de privacidad y seguridad pueden llevar a restricciones en el acceso y la gestión de datos, lo que podría complicar el proceso para los estudiantes que simplemente quieren registrar su asistencia sin complicaciones.</p> 
 
 </details>
+
+## 🟡 Entrevistas
+
+### Parte I Definiciones.
+
+* ***1. Describir qué tipo de información puede obtenerse en una entrevista.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+  
+</details>
+
+* ***2. Enumerar y describir brevemente las etapas de la preparación de una entrevista.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+  
+</details>
+
+* ***3. Enumerar y describir brevemente qué tipos de preguntas puede contener una entrevista. Detalle ventajas y desventajas de cada una.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+  
+</details>
+
+* ***4. Enumerar y describir brevemente qué tipo de estructuras y organización existen para el armado de una entrevista.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+  
+</details>
+
+* ***5. Analizar un formato de la planilla adecuado al momento de armar una entrevista.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+  
+</details>
+
+* ***6. Analizar un formato de la planilla adecuado al momento de terminar una entrevista.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+  
+</details>
+
+### Parte II Situaciones.

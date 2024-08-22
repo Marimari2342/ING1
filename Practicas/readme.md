@@ -223,6 +223,22 @@ En este tipo de entrevistas el encuestador lleva un tema en general, y no hay un
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
   
+a. Me parece muy informal y además estoy agregando un juicio de valor en la pregunta, parece una acusación y condiciono al entrevistado con la misma. En lugar de eso puedo preguntar: 
+
+"He oído que ha habido preocupaciones sobre el desempeño actual de la empresa. ¿Podría comentar sobre la situación actual y cómo la empresa está abordando estos desafíos?"
+
+b. No esta bien indicar que uno es nuevo, o no de ese modo. También es muy informal la pregunta en general. Podemos reescribirla como:
+
+"Al ser nuevo en este campo, me gustaría entender mejor los aspectos clave que debo tener en cuenta. ¿Hay áreas importantes o aspectos que pueda estar pasando por alto y que sean cruciales para tener una visión completa?"
+
+c. En primer lugar, está mal redactada, además condiciono al decir "esta usted de acuerdo", la persona puede opinar distinto, mejor ser más imparcial para que el entrevistado no se sienta condicionado a responder. Por ejemplo:
+
+"¿Cuál es su opinión sobre la propuesta de computarizar las ventas mensuales y realizar un análisis de tendencias? ¿Cree que esta estrategia podría ofrecer mejoras significativas en el proceso de gestión de ventas?"
+
+d. La pregunta es un poco brusca al hacer un juicio de valor ante el procedimiento utilizado por el entrevistado, me parece que con esta pregunta se va al choque. En lugar de eso podemos decir:
+
+"¿Existen métodos más modernos o eficientes para hacer proyecciones de ventas que podrían mejorar el procedimiento actual? Me gustaría conocer su perspectiva sobre las alternativas disponibles."
+
 </details>
 
 * ***Situación 2***

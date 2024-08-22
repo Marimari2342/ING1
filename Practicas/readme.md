@@ -141,25 +141,58 @@ La elicitación de requisitos es una actividad principalmente de carácter socia
 * ***1. Describir qué tipo de información puede obtenerse en una entrevista.***
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
-  
+
+<p>La entrevista es una técnica de exploración mediante la cual el analista de sistemas recolecta información de las personas a través de la interacción cara a cara. Es una conversación con un propósito específico, que se basa en un formato de preguntas y respuestas en general, con el propósito de conocer opiniones y sentimientos del entrevistado.</p>
+<p>Mediante las entrevistas pueden obtenerse tipos de información tales como opiniones, objetivos, procedimientos informales y sentimientos del entrevistado.</p>
+
 </details>
 
 * ***2. Enumerar y describir brevemente las etapas de la preparación de una entrevista.***
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
-  
+
+(a) Seleccionar los entrevistados: se debe minimizar el número de entrevistas, y los entrevistados deben conocer con antelación el objetivo de la entrevista y las preguntas que se le van a hacer.
+
+(b) Planificación de la entrevista y preparación del entrevistado: establecer fecha, hora, lugar y duración de cada entrevista de acuerdo con el entrevistado.
+
+(c) Selección del tipo de preguntas a usar y su estructura.
+
 </details>
 
 * ***3. Enumerar y describir brevemente qué tipos de preguntas puede contener una entrevista. Detalle ventajas y desventajas de cada una.***
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
-  
+
+Tipos de Preguntas que puede contener una entrevista:
+
+* Abiertas
+
+Permite al encuestado responder de cualquier manera, por ejemplo: ¿Qué opinión tiene del sistema actual? ¿Cómo describe su trabajo?
+
+* Cerradas
+
+Las respuestas son directas, cortas o de selección específica, por ejemplo: ¿Quién recibe este informe? ¿Cuántas personas utilizan el sistema?
+
+* Sondeo
+
+Las mismas ermiten obtener más detalle sobre un tema puntual, por ejemplo: ¿Podría dar detalles sobre tal cosa…? ¿Podría dar un ejemplo de tal cosa…?
+
 </details>
 
 * ***4. Enumerar y describir brevemente qué tipo de estructuras y organización existen para el armado de una entrevista.***
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
-  
+
+Las entrevistas pueden ser:
+
+* Estructuradas (Cerradas)
+
+En este caso el encuestador tiene un conjunto específico de preguntas para hacérselas al entrevistado, se busca dirigir al usuario sobre un requerimiento puntual. Por esto no permite adquirir un amplio conocimiento del dominio.
+
+* No estructuradas (Abiertas)
+
+En este tipo de entrevistas el encuestador lleva un tema en general, y no hay una preparación de preguntas específicas. Se Inicia con preguntas que no dependen del contexto, para conocer el problema, la gente involucrada, etc.
+
 </details>
 
 * ***5. Analizar un formato de la planilla adecuado al momento de armar una entrevista.***

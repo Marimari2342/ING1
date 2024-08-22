@@ -90,7 +90,7 @@ La elicitación de requisitos es una actividad principalmente de carácter socia
 
 ### Parte II Problemas.
 
-***Indicar para cada problema quiénes podrían ser los Stakeholders, los puntos de vista y las fuentes de información.***
+***a) Indicar para cada problema quiénes podrían ser los Stakeholders, los puntos de vista y las fuentes de información.***
 
 * ***1) En un sistema de registro de asistencia a través de técnicas biométricas (huella digital) de estudiantes universitarios para la cátedra de Ingeniería I. Este sistema se alimentará de un listado otorgado por la oficina de alumnos de la facultad. Además, necesita la autorización del Jefe de Trabajos Prácticos del turno correspondiente para luego los alumnos poder registrar el presente. También, el profesor a cargo de la materia podrá consultar y listar el estado de cada alumno perteneciente a su cátedra. El sistema sólo se utilizará en el ámbito de la facultad de Informática y deberá adecuarse a la reglamentación sobre privacidad de los datos en el ámbito de la misma.***
 
@@ -125,3 +125,11 @@ La elicitación de requisitos es una actividad principalmente de carácter socia
 
 </details>
 
+***b) Habiendo resuelto los problemas presentados, ¿por qué considera que los requerimientos de los distintos stakeholders podrían entrar en conflicto?***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+<p>Los requerimientos de los distintos stakeholders pueden entrar en conflicto debido a la variedad de intereses, objetivos y limitaciones de cada grupo. Estos conflictos pueden surgir debido a la combinación de diferentes prioridades y restricciones, como la eficiencia operativa, la precisión de los datos, la facilidad de uso, el cumplimiento de las normativas legales y los recursos disponibles. La clave para resolver estos conflictos es encontrar un equilibrio que satisfaga las necesidades de todos los stakeholders, mediante un enfoque colaborativo y una comunicación clara entre todos los involucrados.</p> 
+<p>Por ejemplo: los estudiantes necesitan un sistema que sea fácil de usar y que registre su asistencia de manera precisa; mientras que las autoridades de la Facultad deben cumplir con las regulaciones de privacidad y protección de datos, lo que puede requerir medidas adicionales de seguridad y restricciones en el acceso a los datos. Esto podría generar un posible conflicto debido a que los requisitos de privacidad y seguridad pueden llevar a restricciones en el acceso y la gestión de datos, lo que podría complicar el proceso para los estudiantes que simplemente quieren registrar su asistencia sin complicaciones.</p> 
+
+</details>

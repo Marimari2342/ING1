@@ -269,6 +269,12 @@ Trataría ante todo de mostrar empatía con el entrevistado, para evitar así po
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
   
+a. Al leer el informe me genera la sensación de que el entrevistador no supo llevar bien la entrevista, puesto que las preguntas que tenía preparadas no pudo realizarlas. Pareciera que el entrevistado es quien habló y llevó las riendas de la conversación, y el entrevistador se limitó a conversar, olvidando que debía entrevistar a su cliente. Por esto mismo se quedó sin tiempo pues no llegó a preguntar lo que había pautado previamente.
+
+b. Hay información irrelevante como el tiempo que duró la entrevista o el juicio de valor ante la conversación que tuvo con el entrevistado. La historia de la empresa, si bien puede ser interesante, por ahí no es tan relevante para una entrevista de análisis de sistemas. Además esta escrita de un modo muy coloquial, palabras como "aproximadamente" o "las cosas" no son apropiadas para un informe. 
+
+c. Cómo sugerencias yo le diría que (1) Enfoque la entrevista en los objetivos específicos, armando una agenda clara con preguntas puntuales para dirigir la conversación siempre hacia esas preguntas. (2) Administrar el tiempo de una manera eficiente, para poder realizar la entrevista de una buena manera abarcando todos los temas que busca abordar en la misma. (3) Documentar la entrevista al finalizar para asegurarse que todos los puntos clave fueron hablados en la entrevista.
+
 </details>
 
 <br>

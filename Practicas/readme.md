@@ -250,7 +250,9 @@ d. La pregunta es un poco brusca al hacer un juicio de valor ante el procedimien
 ***b. Qué opciones propone para el caso en que la entrevista no pueda reprogramarse.***
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
-  
+
+Trataría ante todo de mostrar empatía con el entrevistado, para evitar así ponerlo más nervioso. Ofrecería la oportunidad de reprogramar la entrevista, y en caso de no ser posible, buscaría hacer preguntas concisas y puntuales, de modo de priorizar el tiempo de la misma, sin apurar la entrevista, pero buscando abordar los puntos claves por lo cual iba a llevar a cabo la misma. Además dentificaría los temas más importantes para asegurarme de que se traten primero, en caso de que el tiempo de la entrevista se reduzca aún más.
+
 </details>
 
 * ***Situación 3***

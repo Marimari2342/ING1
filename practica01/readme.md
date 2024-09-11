@@ -1,6 +1,5 @@
 # Ingeniería de Software 1 - Practica 1: Técnicas de Elicitación de Requisitos
 
-
 ## 🟡 Obtención de los requerimientos
 
 ### Parte I Definiciones.

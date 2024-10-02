@@ -38,9 +38,7 @@ Cada caso de uso incluye una descripción de cómo el sistema responde a los dif
 
 ### c) **Actor y escenario**
 
-- **Actor**: Un actor es cualquier entidad externa que interactúa con el sistema, ya sea un usuario, otro sistema o incluso el tiempo. Los actores realizan acciones o reciben respuestas del sistema. 
-
-Los actores no forman parte del sistema en sí, pero influyen en él y pueden ser:
+- **Actor**: Un actor es cualquier entidad externa que interactúa con el sistema, ya sea un usuario, otro sistema o incluso el tiempo. Los actores realizan acciones o reciben respuestas del sistema. Los actores no forman parte del sistema en sí, pero influyen en él y pueden ser:
 
   - **Actores primarios**: Aquellos que inician una interacción con el sistema (por ejemplo, un usuario humano).
 

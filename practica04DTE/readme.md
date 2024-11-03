@@ -28,7 +28,7 @@ La máquina se activa cuando el usuario ingresa una moneda. Todos los productos 
 
 </details>
 
-## 🟠 Punto 3. 
+## 🟠 Ejercicio 3. 
 
 Se desea modelar con un DTE el acceso a una caja fuerte, la cual posee un código de seguridad con una longitud desconocida. La caja presenta un teclado numérico y un botón “aceptar”. Si el código es incorrecto el sistema debe terminar indicando un error. Analice las siguientes soluciones y discuta las diferencias.
 
@@ -44,13 +44,29 @@ Yo creo que ambas soluciones son correctas, pero la primera es más prolija pues
 
 </details>
 
-## 🟠 Punto 4. 
+## 🟠 Ejercicio 4. Realizar el DTE para modelar un turbo ventilador.
 
 Considere un sistema de control de un turbo ventilador que posee tres niveles de velocidad. Para ir de un nivel a otro, ya sea anterior o posterior, se debe girar una perilla en forma secuencial. Inicialmente el ventilador se encuentra apagado. Girando la perilla en el sentido de las agujas del reloj se enciende y se aumenta la velocidad, mientras que girando la perilla en el sentido contrario se disminuye. El ventilador puede ser apagado girando hacia la izquierda en el nivel 1 o hacia la derecha en el nivel 3.
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
 
 ![foto](/practica04DTE/DTEpunto04.jpg)
+
+--------------------------------
+
+</details>
+
+## 🟠 Ejercicio 5. Modelar mediante un DTE el ingreso del personal a una empresa.
+
+Para ello existe una máquina en donde un empleado debe registrar el presente. Para iniciar el registro se selecciona la opción “Registrar Asistencia”. Luego, se habilitan dos opciones posibles para registrar su presente: mediante su tarjeta o su huella dactilar.
+
+Si el empleado selecciona “registro por tarjeta”, debe pasar la tarjeta por un lector. Si la tarjeta es válida se habilita un teclado virtual donde debe proceder a ingresar un código de 4 dígitos, en el caso de que la tarjeta fuese inválida se informa el error. Para el ingreso de los 4 dígitos se tienen sólo 3 intentos, pasados los 3 intentos se anula la operación y se retorna la tarjeta.
+
+Si opta por registrar el presente mediante la huella dactilar sólo debe apoyar el dedo en el scanner. 
+
+En cualquiera de los 2 casos si el ingreso es exitoso se muestra en el display la fecha y el horario de entrada y un mensaje de éxito, caso contrario, se visualiza un mensaje de error y se emite un pitido.
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
 
 --------------------------------
 

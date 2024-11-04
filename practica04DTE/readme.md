@@ -68,6 +68,8 @@ En cualquiera de los 2 casos si el ingreso es exitoso se muestra en el display l
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
 
+![foto](/practica04DTE/DTEpunto05.jpg)
+
 --------------------------------
 
 </details>

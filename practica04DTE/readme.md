@@ -73,3 +73,15 @@ En cualquiera de los 2 casos si el ingreso es exitoso se muestra en el display l
 --------------------------------
 
 </details>
+
+## 🟠 Ejercicio 6. Se desea modelar el funcionamiento de un personaje para un juego electrónico.
+
+El personaje es un guardia medieval de un castillo. Su objetivo es vigilar el castillo y eliminar enemigos que puedan aparecer. El personaje comienza su ronda de vigilancia cuando es creado por el sistema, con el 100% de energía. El modo normal del personaje es vigilar el castillo, mientras no detecte un enemigo. Al detectar uno, el personaje pasa a modo combate. Si el enemigo está fuera del castillo, el personaje saca su arco y flecha. Si el enemigo está dentro del castillo, el personaje saca su espada. Durante el combate, el personaje puede recibir “golpes”, reduciendo su energía 10% por cada uno. Si el personaje gana el combate, recupera el 50% de energía y vuelve con su ronda de vigilancia. Pero si pierde energía hasta quedarse con el 20%, entonces el personaje comienza a huir del enemigo, guardando su arma. Durante la huida el personaje puede seguir recibiendo “golpes”, hasta quedarse sin energía y morir, quedando fuera del juego. Cuando pierde de vista al enemigo, el personaje deja de huir y vuelve con su ronda de vigilancia, ganando un 30% de energía.
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica04DTE/DTEpunto06.jpg)
+
+--------------------------------
+
+</details>

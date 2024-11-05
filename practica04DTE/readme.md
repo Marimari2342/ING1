@@ -106,3 +106,21 @@ Una vez emitido el voto, es decir, que seleccionó la/s agrupación/es correspon
 --------------------------------
 
 </details>
+
+## 🟠 Ejercicio 10. Modelar un sistema para una cinta para correr.
+
+La cinta consta de un display táctil y un botón de encendido/apagado. Cuando se presiona encender, la cinta inicia en un estado de reposo, se habilita el display, se muestra un mensaje de bienvenida, la velocidad de la misma (inicialmente en cero), las opciones “+” y “-“, para aumentar y disminuir dicha velocidad y tres programas predefinidos de entrenamiento (inicial, intermedio y máximo). Una vez encendida la cinta, el usuario debe elegir uno de estos tres programas para comenzar a entrenar. Estando en cualquiera de los tres programas, el usuario, puede cambiar a algún otro programa de entrenamiento, o finalizar el mismo mediante un botón de “fin de programa” volviendo al estado de reposo. Además, puede variar la velocidad del mismo, sin salir del programa en el que se encuentra. La velocidad oscila en un rango de 0 a 9, y aumenta y disminuye en escala de 1. Si la velocidad disminuye a cero, la cinta vuelve al estado de reposo. En cualquier momento se puede apagar la cinta.
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+* Version 1 --> Se repiten muchas transiciones puesto que los estados relacionados a los programas de entrenamiento son muy similares... 
+
+![foto](/practica04DTE/DTEpunto10-version1.jpg)
+
+* Version 2 --> CORREGIDA. Se diagraman los tres programas de entrenamiento en un mismo estado, así el diagrama queda más prolijo y se evita estar repitiendo las transiciones.
+
+![foto](/practica04DTE/DTEpunto10-versioncorregida.jpg)
+
+--------------------------------
+
+</details>

@@ -107,6 +107,20 @@ Una vez emitido el voto, es decir, que seleccionó la/s agrupación/es correspon
 
 </details>
 
+## 🟠 Ejercicio 8. Modelar mediante DTE la búsqueda de un destino para navegación por GPS.
+
+Al seleccionar la opción “ir a destino” el sistema visualiza la “pantalla inicial de búsqueda” con las opciones: “últimos encontrados” y “nuevo destino”. Si el usuario selecciona “últimos encontrados” se muestra una lista con los últimos 5 lugares buscados. Luego, el usuario debe seleccionar un lugar de dicha lista para iniciar la navegación. Si el usuario selecciona “nuevo destino” el sistema visualiza un campo para completar la calle del destino, compuesta por caracteres alfanuméricos, y un botón “siguiente”. Una vez completo el ingreso de la calle y presionado “siguiente” el sistema muestra el campo altura, compuesto por caracteres numéricos, y un botón “confirmar”. Al confirmar el GPS busca la dirección ingresada, si se encuentra dicha dirección se inicia la navegación. Si la dirección no es encontrada por el sistema se informa el error y se retorna a la pantalla de búsqueda.
+
+Para ambos casos, se muestra el mapa de ruta correspondiente y las opciones “Ir” y “Cancelar”. Si se selecciona “Ir”, el GPS comienza con la navegación. Si el usuario cancela se retorna a la “pantalla inicial de búsqueda”. Cuando GPS se encuentra navegando y pierde la señal de satélite entonces se queda a la espera de recepción de señal, cuando logra restablecer la señal continúa con la navegación. Si luego de 3 minutos no logra encontrar señal se cancela automáticamente la navegación y se retorna a la pantalla de búsqueda. Mientras se está navegando el sistema actualiza una vez por segundo la ubicación geográfica, la información de la velocidad, distancia y tiempo restante. Cuando termina la navegación el sistema retorna un mensaje de destino alcanzado. El usuario puede detener la navegación en cualquier momento presionando el botón “detener navegación”, en cuyo caso, el sistema, retorna a la pantalla de inicio con la opción “Ir a destino”.
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica04DTE/DTEpunto08.jpg)
+
+--------------------------------
+
+</details>
+
 ## 🟠 Ejercicio 10. Modelar un sistema para una cinta para correr.
 
 La cinta consta de un display táctil y un botón de encendido/apagado. Cuando se presiona encender, la cinta inicia en un estado de reposo, se habilita el display, se muestra un mensaje de bienvenida, la velocidad de la misma (inicialmente en cero), las opciones “+” y “-“, para aumentar y disminuir dicha velocidad y tres programas predefinidos de entrenamiento (inicial, intermedio y máximo). Una vez encendida la cinta, el usuario debe elegir uno de estos tres programas para comenzar a entrenar. Estando en cualquiera de los tres programas, el usuario, puede cambiar a algún otro programa de entrenamiento, o finalizar el mismo mediante un botón de “fin de programa” volviendo al estado de reposo. Además, puede variar la velocidad del mismo, sin salir del programa en el que se encuentra. La velocidad oscila en un rango de 0 a 9, y aumenta y disminuye en escala de 1. Si la velocidad disminuye a cero, la cinta vuelve al estado de reposo. En cualquier momento se puede apagar la cinta.

@@ -4,6 +4,24 @@ Resolución de ejercicios de la práctica de Redes de Petri y también ejercicio
 
 ## Enunciados de examen
 
+*** * Enunciado1 (1ra Fecha 2024)***
+
+***Modele con una red de Petri el funcionamiento de una linea de producción de motocicletas. Existen 
+tres tipos de componentes que ingresan a la linea de produccion por diferentes carriles. En el primer
+carril ingresan motores, en el segundo carril ingresan cuadros y en el tercer carril ingresan ruedas.***
+
+***Todos los componentes son revisados. En el carril de motores existen 2 puestos de revisión y 2 
+operarios. Cada operario puede trabajar en cualquiera de los dos puestos y revisa de a un motor por 
+vez cada uno. No es posible que haya 2 operarios revisando motores en el mismo puesto.***
+
+***En el caso de los cuadros, también existen dos puestos de trabajos pero en cada puesto hay un 
+operario que siempre trabaja en el mismo puesto y que revisa de a un cuadro por vez.***
+
+***En el caso de las ruedas, existe un puesto automático que permite la evaluación de tres ruedas por 
+vez como máximo. Una vez revisados los componentes se procede al armado de las motos. Para poder 
+armar una moto, es necesario un motor, un cuadro y dos ruedas. Una vez armadas las motos son 
+agrupadas para subir al camión. Se arman lotes de 5 motos y se suben al camión cada lote.***
+
 *** * Enunciado2***
 
 ***Se desea modelar con Redes de Petri un semáforo inteligente en un cruce peatonal. El semáforo

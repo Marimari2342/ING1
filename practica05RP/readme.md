@@ -22,6 +22,15 @@ vez como máximo. Una vez revisados los componentes se procede al armado de las 
 armar una moto, es necesario un motor, un cuadro y dos ruedas. Una vez armadas las motos son 
 agrupadas para subir al camión. Se arman lotes de 5 motos y se suben al camión cada lote.***
 
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen1RP.jpg)
+
+--------------------------------
+
+</details>
+
+
 * ***Enunciado2***
 
 ***Se desea modelar con Redes de Petri un semáforo inteligente en un cruce peatonal. El semáforo

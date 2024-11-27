@@ -1,6 +1,6 @@
 # Ingeniería de Software 1 - Practica 5: Redes de Petri (RP)
 
-Resolución de ejercicios de la práctica de Redes de Petri y también ejercicios de parcial de este tema.
+En esta carpeta se encuentra la resolución de ejercicios de la práctica de Redes de Petri y también ejercicios de parcial de este tema.
 
 ## Enunciados de examen
 
@@ -38,8 +38,17 @@ puede detectar cuando llegan vehiculos (por la calle) y cuando llegan peatones (
 cruce. El objetivo del semáforo es dejar pasar sólo un tipo de entidad a la vez, pero de a grupos.
 Para habilitar el cruce de vehículos deben llegar como mínimo cuatro vehículos al semáforo. En este
 caso, si no hay peatones cruzando, se habilita hasta que pasen los cuatro vehiculos. Para que crucen
-los peatones se debe cumplir la misma regla, pero alcanza con que haya dos peatones en el cruce. Nunca
-pueden cruzar peatones si hay vehículos cruzando, ni viceversa.***
+los peatones se debe cumplir la misma regla, pero alcanza con que haya dos peatones en el cruce. Nunca pueden cruzar peatones si hay vehículos cruzando, ni viceversa.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen2RP.jpg)
+
+El enunciado no indica alternancia entre el cruce de petaones y vehículos, así que lo supongo así.
+
+--------------------------------
+
+</details>
 
 * ***Enunciado3***
 

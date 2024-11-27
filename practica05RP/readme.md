@@ -72,8 +72,7 @@ En este caso, el enunciado SI indica alternancia entre el cruce de peatones y ve
 * ***Enunciado4***
 
 ***Se desea modelar con Redes de Petri el funcionamiento de una linea automática de empaquetado, en
-una fábrica de alfajores. Existen dos cintas transportadoras por las que llegan dos tipos de alfajores:
-por una llegan alfajores de chocolate y por otra de fruta.***
+una fábrica de alfajores. Existen dos cintas transportadoras por las que llegan dos tipos de alfajores: por una llegan alfajores de chocolate y por otra de fruta.***
 
 ***En la linea de empaquetado existen dos máquinas que trabajan al mismo tiempo del siguiente modo:
 al tener 3 alfajores de chocolate y 3 de fruta se activan las dos máquinas, una confecciona la caja
@@ -82,6 +81,14 @@ comenzar una nueva caja hasta que terminen de trabajar ambas máquinas.***
 
 ***Una vez terminada, la caja es depositada en otra cinta, donde una máquina las empaqueta en grupos
 de a 6. Luego, el pack de 6 cajas es depositado en un depósito para posterior despacho.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen04RP.jpg)
+
+--------------------------------
+
+</details>
 
 * ***Enunciado5***
 

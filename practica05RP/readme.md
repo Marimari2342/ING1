@@ -24,7 +24,7 @@ agrupadas para subir al camión. Se arman lotes de 5 motos y se suben al camión
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
 
-![foto](/practica05RP/examen1RP.jpg)
+![foto](/practica05RP/examen01RP.jpg)
 
 --------------------------------
 
@@ -42,9 +42,9 @@ los peatones se debe cumplir la misma regla, pero alcanza con que haya dos peato
 
 <details><summary><code>Respuesta 🖱</code></summary><br>
 
-![foto](/practica05RP/examen2RP.jpg)
+![foto](/practica05RP/examen02RP.jpg)
 
-El enunciado no indica alternancia entre el cruce de petaones y vehículos, así que lo supongo así.
+El enunciado no indica alternancia entre el cruce de peatones y vehículos, así que lo supongo así.
 
 --------------------------------
 
@@ -58,6 +58,16 @@ autos en un grupo, para pasar todo el grupo al mismo tiempo. Para los peatones d
 pero esperando sólo 2 peatones. Por último, el semáforo debe dar paso siempre alternadamente, primero
 un grupo de vehículos, luego un grupo de peatones, y así sucesivamente. Luego de pasar el cruce, las
 entidades se retiran de forma individual.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen03RP.jpg)
+
+En este caso, el enunciado SI indica alternancia entre el cruce de peatones y vehículos, por eso el gráfico queda distinto.
+
+--------------------------------
+
+</details>
 
 * ***Enunciado4***
 

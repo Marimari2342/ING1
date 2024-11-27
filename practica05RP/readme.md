@@ -108,6 +108,8 @@ cuenta que cada empleado sólo realiza de una tarea por vez.***
 
 ![foto](/practica05RP/examen05RP.jpg)
 
+El enunciado no me dice que cada armador se dedica específicamente a una tarea (es decir pueden turnarse y a veces armar el cuerpo y otras veces las ruedas). Como interpreto eso lo hago así, sino modelaría cada armador por separado y el área de armado para indicar que trabajan en paralelo...
+
 --------------------------------
 
 </details>

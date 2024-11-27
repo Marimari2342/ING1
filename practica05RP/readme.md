@@ -4,7 +4,7 @@ Resolución de ejercicios de la práctica de Redes de Petri y también ejercicio
 
 ## Enunciados de examen
 
-*** * Enunciado1 (1ra Fecha 2024)***
+* ***Enunciado1 (1ra Fecha 2024)***
 
 ***Modele con una red de Petri el funcionamiento de una linea de producción de motocicletas. Existen 
 tres tipos de componentes que ingresan a la linea de produccion por diferentes carriles. En el primer
@@ -22,7 +22,7 @@ vez como máximo. Una vez revisados los componentes se procede al armado de las 
 armar una moto, es necesario un motor, un cuadro y dos ruedas. Una vez armadas las motos son 
 agrupadas para subir al camión. Se arman lotes de 5 motos y se suben al camión cada lote.***
 
-*** * Enunciado2***
+* ***Enunciado2***
 
 ***Se desea modelar con Redes de Petri un semáforo inteligente en un cruce peatonal. El semáforo
 puede detectar cuando llegan vehiculos (por la calle) y cuando llegan peatones (por la vereda) al
@@ -32,7 +32,7 @@ caso, si no hay peatones cruzando, se habilita hasta que pasen los cuatro vehicu
 los peatones se debe cumplir la misma regla, pero alcanza con que haya dos peatones en el cruce. Nunca
 pueden cruzar peatones si hay vehículos cruzando, ni viceversa.***
 
-*** * Enunciado3***
+* ***Enunciado3***
 
 ***Se desea modelar con Redes de Petri un semáforo inteligente en un cruce peatonal. El semáforo debe
 dejar pasar autos o peatones al llegar al cruce. Para que los autos puedan pasar, deben juntarse 3
@@ -41,7 +41,7 @@ pero esperando sólo 2 peatones. Por último, el semáforo debe dar paso siempre
 un grupo de vehículos, luego un grupo de peatones, y así sucesivamente. Luego de pasar el cruce, las
 entidades se retiran de forma individual.***
 
-*** * Enunciado4***
+* ***Enunciado4***
 
 ***Se desea modelar con Redes de Petri el funcionamiento de una linea automática de empaquetado, en
 una fábrica de alfajores. Existen dos cintas transportadoras por las que llegan dos tipos de alfajores:
@@ -55,7 +55,7 @@ comenzar una nueva caja hasta que terminen de trabajar ambas máquinas.***
 ***Una vez terminada, la caja es depositada en otra cinta, donde una máquina las empaqueta en grupos
 de a 6. Luego, el pack de 6 cajas es depositado en un depósito para posterior despacho.***
 
-*** * Enunciado5***
+* ***Enunciado5***
 
 ***Modelar con una red de Petri el modo de trabajo que posee una fábrica de bicicletas. A la fábrica
 llegan cajas cerradas con los componentes para armar bicicletas de distintos proveedores. La fábrica
@@ -70,7 +70,7 @@ bicicleta cuando ambos hayan terminado la que están haciendo. Una vez finalizad
 se coloca en el contenedor de despacho. La bicicleta queda lista para su distribución. Tenga en
 cuenta que cada empleado sólo realiza de una tarea por vez.***
 
-*** * Enunciado6***
+* ***Enunciado6***
 
 ***Modelar con una red de Petri el sector de revisión de una fábrica de motocicletas. Al sector
 llegan elementos de dos tipos: cuadros y motores. Cada elemento llega desde un sector distinto y

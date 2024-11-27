@@ -97,13 +97,20 @@ llegan cajas cerradas con los componentes para armar bicicletas de distintos pro
 sólo funciona por pedidos. Existe un encargado de tomar el pedido y administrar las cajas con los
 componentes de las bicicletas. Su tarea es tomar el pedido y una caja, y delegar el trabajo a dos
 armadores, dejando cada caja con el número de pedido en el área de armado. Uno de los armadores se
-encarga de armar las ruedas y el otro se encarga de armar el cuerpo con el resto de los componentes de
-la bicicleta. Los dos armadores trabajan en forma paralela. Una vez que los dos armadores hayan
+encarga de armar las ruedas y el otro se encarga de armar el cuerpo con el resto de los componentes de la bicicleta. Los dos armadores trabajan en forma paralela. Una vez que los dos armadores hayan
 terminado sus respectivos trabajos, el cuerpo y las ruedas pasan al área de ensamblado, donde el
 ensamblador se encarga de finalizar la bicicleta. Los dos armadores sólo comienzan una nueva
 bicicleta cuando ambos hayan terminado la que están haciendo. Una vez finalizada la bicicleta,
 se coloca en el contenedor de despacho. La bicicleta queda lista para su distribución. Tenga en
 cuenta que cada empleado sólo realiza de una tarea por vez.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen05RP.jpg)
+
+--------------------------------
+
+</details>
 
 * ***Enunciado6***
 

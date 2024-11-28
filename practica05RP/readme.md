@@ -178,6 +178,12 @@ Las galletitas ya cortadas pasan a una cinta transportadora común para ser envi
 
 ***En la etapa 2 hay dos circuitos independientes A y B. El primer corredor en llegar pasa por el circuito A directamente. El segundo corredor en llegar pasa por el circuito B con una penalización. El circuito B tiene la particularidad de que un corredor no puede terminarlo hasta que llegue un segundo corredor de la siguiente pareja. Cuando esto sucede, los 2 corredores del circuito B continúan por la siguiente etapa. Finalmente, los corredores pasan por la etapa 3 y terminan la carrera.***
 
+* ***Enunciado14***
+
+***Se desea modelar a través de una red de petri una línea de producción de quesos. A la línea ingresan diferentes recipientes de leche. Cada recipiente deberá ser controlado en cualquiera de los dos puestos existentes. Para controlar los recipientes existe alternando el control en cada puesto de un único inspector que puede controlar de a un recipiente por vez y que deberá trabajo, comenzando en el puesto 1, luego controlando en el puesto 2, luego en el 1 y así siguiendo.***
+
+***Luego de controlados los recipientes pasan a una cola común antes de la pasteurización de la leche. Para dicha tarea existen dos operarios que pueden pasteurizar un recipiente cada vez. Cada operario tiene un puesto de trabajo diferente. Luego de la pasteurización, la leche está lista para la realización del queso. Es necesario juntar 2 recipientes pasteurizados para el armado de un queso. Luego los quesos son despachados.***
+
 <br>
 <br>
 <br>

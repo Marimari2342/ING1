@@ -125,13 +125,19 @@ pueden verificar tanto cuadros como motores del siguiente modo:***
 necesario un empleado que inspeccionará de a un cuadro por vez. Puede haber como máximo 2 empleados 
 revisando cuadros.***
 
-***En la línea de inspección de motores se verifica que encienda correctamente. Para esto es necesario
-que dos empleados trabajen simultáneamente. Puede haber como máximo 4 empleados revisando motores a 
-la vez.***
+***En la línea de inspección de motores se verifica que encienda correctamente. Para esto es necesario que dos empleados trabajen simultáneamente. Puede haber como máximo 4 empleados revisando motores a la vez.***
 
 ***Luego de las verificaciones se envían los elementos a la espera del embalaje. En la sección de 
 embalaje debe esperarse a que lleguen un cuadro y un motor para ser embalados juntos con un sello 
 de revisión. Luego la caja revisada es derivada al depósito.***
+
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen06RP.jpg)
+
+--------------------------------
+
+</details>
 
 <br>
 <br>

@@ -139,6 +139,45 @@ de revisión. Luego la caja revisada es derivada al depósito.***
 
 </details>
 
+* ***Enunciado7***
+
+***Se desea modelar el funcionamiento de una central de telefonía IP con una red de Petri. A la central llegan llamados los cuales se encolan para ser atendidos. La central cuenta con 5 líneas las cuales pueden trabajan de manera simultánea pero cada línea puede atender de a un llamado a la vez. Luego que la central atiende un llamado los mismos son derivados a cualquiera de las 2 operadoras. La primera operadora puede atender como máximo 2 llamados a la vez. La segunda operadora también puede atender como máximo 2 llamado en simultaneo, pero debe esperar a que lleguen 2 llamados para empezar a atender (hasta que no termina de atender los 2 llamados no puede atender otra tanda). Luego que los llamados pasan por la operadora son derivados al interno finalizando el trabajo de la central.***
+
+* ***Enunciado8***
+
+***Se desea modelar a través de una red de Petri una línea de producción de quesos. A la línea ingresan diferentes recipientes de leche. Cada recipiente deberá ser controlado en cualquiera de los cuatro puestos. En cada puesto hay un operario el cual puede controlar de a un recipiente por vez. Luego de controlados los recipientes pasan a una cola común antes de la pasteurización de la leche. Para dicha tarea existe un operario que puede pasteurizar un recipiente cada vez. Luego de dicho proceso, se necesitan 5 recipientes de leche para la realización de 1 queso. Una vez realizado el queso es despachado.***
+
+* ***Enunciado9***
+
+***Se desea modelar con una red de Petri el funcionamiento de una plaqueta eléctrica. A la red llegan pulsos de tensión. Cada pulso de tensión es derivado a alguno de los dos canales posibles. Si es derivado al canal A, un pulso de tensión se convierte en 3 pulsos, los cuales son encolados para que el sistema verifique si cada uno de estos tres pulsos generados tienen el voltaje adecuado. El sistema verifica de a un pulso a la vez y si el pulso tiene el voltaje esperado es enviado al procesador y consumido.***
+
+***Los pulsos que se envíen al canal B, deberán esperar la llegada de 4 pulsos para ser verificados. Una vez que llegan los 4 pulsos para ser verificados, el sistema verifica su voltaje. En el canal B, el sistema puede verificar de a 2 pulsos a la vez y si los pulsos tienen el voltaje esperado son enviados al procesador y consumidos.***
+
+* ***Enunciado10***
+
+***Se desea modelar la primera etapa de una línea de fabricación de galletitas veganas. A la línea de producción entran, continuamente, por 3 secciones separadas los ingredientes para generar la masa (agua, harina y componentes de la fórmula del sabor). Luego, los ingredientes ingresan en una máquina que los mezcla y separa en 4 bollos. Esta máquina no puede procesar nuevos ingredientes hasta finalizar con los actuales.***
+
+***En la siguiente etapa los bollos pueden pasar a cualquiera de las 2 máquinas para ser aplanados y cortados simultáneamente en 6 galletitas mediante una plantilla con forma de estrellas. Los recortes sobrantes son enviados a la sección de descarte donde finalmente se almacenan para ser reciclados.
+Las galletitas ya cortadas pasan a una cinta transportadora común para ser enviadas a la sección de cocción que forma parte de una segunda etapa.***
+
+* ***Enunciado11***
+
+***Modelar el funcionamiento de una línea de llenado y empaque de desodorantes. Los envases vacíos de desodorantes ingresan a la línea principal donde deben esperar para su llenado. A partir de este punto cada envase pasa a una de las 2 líneas de llenado. Para distribuir equitativamente la carga de trabajo, los envases son desviados alternadamente a cada línea. Una vez llenados pasan a la etapa de empaque dentro de cada línea donde se recubren con un plástico retráctil que agrupa de a 6 envases.***
+
+***En la siguiente etapa, las 2 líneas convergen en la sección de empaque general donde se colocan en cajas de cartón que agrupan 4 empaques (24 desodorantes). Finalmente, las cajas se envían a la sección de transporte para ser almacenadas.***
+
+* ***Enunciado12***
+
+***Se desea modelar el funcionamiento de una barcaza que transporta vehículos. La barcaza hace primero un recorrido del lado "A al lado "B" del río y luego el recorrido del lado "B" al lado "A", siempre cargando 3 vehículos.***
+
+***Cuando los vehículos llegan esperan a que la barcaza esté del lado correspondiente del río. Cuando esto sucede, se cargan 3 vehículos de forma simultánea a la barcaza. Una vez cargados, se realiza el viaje al otro lado del río. Finalizado el recorrido, los autos bajan juntos y la barcaza queda disponible para repetir el proceso con los vehículos de ese lado.***
+
+* ***Enunciado13***
+
+***Se desea simular el funcionamiento de un circuito de carreras a pie. La carrera consta de 3 etapas y se corre en parejas de 2 equipos diferentes. Los corredores de cada equipo llegan a su fila de salida y esperan a que haya un oponente del otro equipo en la línea de partida. Cuando hay 1 corredor de cada equipo listo, inician la carrera y pasan por la etapa 1.***
+
+***En la etapa 2 hay dos circuitos independientes A y B. El primer corredor en llegar pasa por el circuito A directamente. El segundo corredor en llegar pasa por el circuito B con una penalización. El circuito B tiene la particularidad de que un corredor no puede terminarlo hasta que llegue un segundo corredor de la siguiente pareja. Cuando esto sucede, los 2 corredores del circuito B continúan por la siguiente etapa. Finalmente, los corredores pasan por la etapa 3 y terminan la carrera.***
+
 <br>
 <br>
 <br>

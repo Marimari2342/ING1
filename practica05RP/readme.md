@@ -155,6 +155,14 @@ de revisión. Luego la caja revisada es derivada al depósito.***
 
 ***Se desea modelar a través de una red de Petri una línea de producción de quesos. A la línea ingresan diferentes recipientes de leche. Cada recipiente deberá ser controlado en cualquiera de los cuatro puestos. En cada puesto hay un operario el cual puede controlar de a un recipiente por vez. Luego de controlados los recipientes pasan a una cola común antes de la pasteurización de la leche. Para dicha tarea existe un operario que puede pasteurizar un recipiente cada vez. Luego de dicho proceso, se necesitan 5 recipientes de leche para la realización de 1 queso. Una vez realizado el queso es despachado.***
 
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen08RP.jpg)
+
+--------------------------------
+
+</details>
+
 * ***Enunciado9***
 
 ***Se desea modelar con una red de Petri el funcionamiento de una plaqueta eléctrica. A la red llegan pulsos de tensión. Cada pulso de tensión es derivado a alguno de los dos canales posibles. Si es derivado al canal A, un pulso de tensión se convierte en 3 pulsos, los cuales son encolados para que el sistema verifique si cada uno de estos tres pulsos generados tienen el voltaje adecuado. El sistema verifica de a un pulso a la vez y si el pulso tiene el voltaje esperado es enviado al procesador y consumido.***

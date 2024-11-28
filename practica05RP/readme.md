@@ -143,6 +143,14 @@ de revisión. Luego la caja revisada es derivada al depósito.***
 
 ***Se desea modelar el funcionamiento de una central de telefonía IP con una red de Petri. A la central llegan llamados los cuales se encolan para ser atendidos. La central cuenta con 5 líneas las cuales pueden trabajan de manera simultánea pero cada línea puede atender de a un llamado a la vez. Luego que la central atiende un llamado los mismos son derivados a cualquiera de las 2 operadoras. La primera operadora puede atender como máximo 2 llamados a la vez. La segunda operadora también puede atender como máximo 2 llamado en simultaneo, pero debe esperar a que lleguen 2 llamados para empezar a atender (hasta que no termina de atender los 2 llamados no puede atender otra tanda). Luego que los llamados pasan por la operadora son derivados al interno finalizando el trabajo de la central.***
 
+<details><summary><code>Respuesta 🖱</code></summary><br>
+
+![foto](/practica05RP/examen07RP.jpg)
+
+--------------------------------
+
+</details>
+
 * ***Enunciado8***
 
 ***Se desea modelar a través de una red de Petri una línea de producción de quesos. A la línea ingresan diferentes recipientes de leche. Cada recipiente deberá ser controlado en cualquiera de los cuatro puestos. En cada puesto hay un operario el cual puede controlar de a un recipiente por vez. Luego de controlados los recipientes pasan a una cola común antes de la pasteurización de la leche. Para dicha tarea existe un operario que puede pasteurizar un recipiente cada vez. Luego de dicho proceso, se necesitan 5 recipientes de leche para la realización de 1 queso. Una vez realizado el queso es despachado.***

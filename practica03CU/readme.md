@@ -1,5 +1,7 @@
 # Ingeniería de Software 1 - Practica 3: Casos de Uso
 
+Plantilla CU [ <code>ACÁ</code> ](/plantillaCU.pdf)
+
 ## Parte I: Definiciones generales
 
 a) Describir qué es el desarrollo centrado en el usuario.
